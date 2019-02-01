@@ -1,0 +1,11 @@
+o x d p t 10 10 9 5
+oooooooooo
+otttttttto
+otttttttto
+otttttttto
+ottttttxxo
+ottttttxxd
+ottttttxxo
+otttttttto
+otttttttto
+oooooooooo

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/yellow_pressed.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/blue.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/blue_pressed.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/green.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/green_pressed.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/red.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/red_pressed.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/yellow.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/list.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Fonts/arial15.spritefont</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/title.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Bob/Movement/Idle.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Bob/Movement/WalkDown.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Bob/Movement/WalkRight.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Bob/Movement/WalkUp.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Bob/Movement/WalkLeft.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/MenuOutline.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/Cursor.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/XOut.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/BlackButton.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/DarkGrayButton.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/LightGrayButton.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Items/coin.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Fonts/arial24.spritefont</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/GUI/DragButton.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Fonts/barcodeFont.spritefont</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Items/lightMask.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Bob/Movement/Movement_New.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Fonts/smallFont.spritefont</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Items/scissors.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Items/rock.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Items/SinglePage.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/wall_top1.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/wall1.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/Stones_shaded.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/wall2.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/Stones.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/walls1.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/Gray/FloorDiamond_Gray.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/Gray/FloorTile_1_Gray.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/Gray/FloorTile_2_Gray.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/Gray/WallH_Gray.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/Gray/WallH_Repeating_Gray.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/Gray/WallV_Gray.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/Gray/WallV_Repeating_Gray.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Environment/trap.png</File>
+    <File>C:/Users/Cori/Documents/FreshmanYearRIT/Bob's on the Job/BobsOnTheJob/BobsOnTheJob/Content/Sound/Bob'sTheme_mixdown.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
